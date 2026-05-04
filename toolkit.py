@@ -4,6 +4,6 @@
 #def banner():
 # >>> KONFLIKTBEREICH: Hier werden zwei Personen
 #gleichzeitig ändern <<<
-#return "Mini-Toolkit v0.1 - Welcome"
+#return "Mini-Toolkit v0.2 - Willkommen vom Team D"
 #if __name__ == "__main__":
 #    print(banner())
