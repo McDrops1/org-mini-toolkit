@@ -1,10 +1,9 @@
-# Mini-Toolkit – bitte NICHT am Header ändern, außer wenn die
+#Mini-Toolkit – bitte NICHT am Header ändern, außer wenn die
 #Aufgabe es verlangt!
-#VERSION = "0.1"
+VERSION = "0.2"
 def banner():
-# >>> KONFLIKTBEREICH: Hier werden zwei Personen
+#>>> KONFLIKTBEREICH: Hier werden zwei Personen
 #gleichzeitig ändern <<<
-    return "Mini-Toolkit v0.2 - Hello from Team C"
-
-if __name__ == "__main__":
-    print(banner())
+    return "Mini-Toolkit v0.2 - Willkommen von Allen"
+    if __name__ == "__main__":
+        print(banner())
